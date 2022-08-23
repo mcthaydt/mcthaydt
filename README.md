@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @mcthaydt
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hello 👋
 
-<!---
-mcthaydt/mcthaydt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#### I'm a Software Developer and Product Designer working in Chicago, IL.
+
+##### NOW
+
+- Currently working on: **WARUI RYOKO** using **Bevy Engine** and **Rust**
+
+##### INFO
+
+- 🏢 I'm currently working at **Amazon ORD10**
+- 🛠 I use daily: `.svelte`, `.js`, `.html`, `.css`, `.rs`, `.gdscript'
+- 🌍 I'm mostly active within **WallStreetBets** and **Godot Developers**
+- 💬 Feel free to reach out about **design**, **branding**, **game development**, **app development**, **strategy**
+- 📫 Contact me: [twitter.com/mcthaydt](https://twitter.com/mcthaydt)
+- ♏️ Fun fact: I'm a huge fan of astrology.
