@@ -1,6 +1,6 @@
-### Hello 👋
+### Hello 👹
 
-#### I'm a Software Developer and Product Designer working in Chicago, IL.
+#### I'm a Software Developer and Product Designer based in Chicago.
 
 ##### NOW
 
