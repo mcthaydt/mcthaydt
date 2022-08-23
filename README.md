@@ -4,8 +4,7 @@
 
 ##### NOW
 
-- Currently working on: **WARUI RYOKO** using **Bevy Engine** and **Rust**
-- Currently working on: **CRISPY CABARET** using **Tauri**, **Rust**, and **Svelte**
+- Currently working on: **WARUI RYOKO** using **Bevy** and **Rust**
 
 ##### INFO
 
