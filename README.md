@@ -1,4 +1,4 @@
-### Hello 👹
+### Hello 🍃
 
 #### I'm a Software Developer and Product Designer based in Chicago.
 
