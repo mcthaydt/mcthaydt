@@ -4,7 +4,7 @@
 
 ##### NOW
 
-- Currently working on: **WARUI RYOKO** using **Bevy** and **Rust**
+- Currently working on: **CABARET BALL VERTICAL SLICE** using **Bevy** and **Rust**
 
 ##### INFO
 
