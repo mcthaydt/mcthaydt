@@ -4,7 +4,7 @@
 
 ##### NOW
 
-- Currently working on: **CABARET BALL VERTICAL SLICE** using **Bevy** and **Rust**
+- Currently working on: **CABARET BALL VERTICAL SLICE** using **Bevy Engine** and **Rust**
 
 ##### INFO
 
