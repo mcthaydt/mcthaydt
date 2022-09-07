@@ -1,8 +1,8 @@
 ### Hey ✌️
 
 #### I'm a Software Developer and Product Designer based in Chicago.
-#####: Niche #1: Chicago Nightlife Websites
-#####: Niche #2: Data-Driven Systemic Games 
+##### Niche #1: Chicago Nightlife Websites
+##### Niche #2: Data-Driven Systemic Games 
 
 ##### NOW
 
