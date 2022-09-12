@@ -6,7 +6,7 @@
 
 ##### NOW
 
-- Currently working on: **CABARET BALL VERTICAL SLICE** using **Bevy Engine** and **Rust**
+- Currently working on: **WARUI RYOKO PROTOTYPE** using **Bevy Engine** and **Rust**
 
 ##### INFO
 
