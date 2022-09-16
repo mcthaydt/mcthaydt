@@ -6,7 +6,8 @@
 
 ##### NOW
 
-- Currently working on: **WARUI RYOKO PROTOTYPE** using **Bevy Engine** and **Rust**
+- Currently working on: **McThayDT Website** using **Svelte**
+- Currently learning: **Macroquad** using **Rust**
 
 ##### INFO
 
