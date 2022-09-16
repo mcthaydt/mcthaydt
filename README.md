@@ -7,7 +7,7 @@
 ##### NOW
 
 - Currently working on: **McThayDT Website** using **Svelte**
-- Currently learning: **macroquad** using **Rust**
+- Currently learning: **Macroquad** and **Rust**
 
 ##### INFO
 
