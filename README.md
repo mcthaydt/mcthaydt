@@ -6,8 +6,8 @@
 
 ##### NOW
 
-- Currently working on: **McThayDT Website** using **Svelte**
-- Currently learning: **Bevy** and **Rust**
+- Currently working on: **Taylor Street Tap Website V2** using **Svelte**
+- Currently working on: **Tropical717's Maze Game** using **Bevy** and **Rust**
 
 ##### INFO
 
