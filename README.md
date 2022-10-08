@@ -1,13 +1,12 @@
 ### Hey ✌️
 
 #### I'm a Software Developer and Product Designer based in Chicago.
-##### Niche #1: Chicago Nightlife Websites
-##### Niche #2: Data-Driven Systemic Games 
+##### Niche #1: Chicago Nightlife
+##### Niche #2: Data-Driven ECS Games
 
 ##### NOW
 
-- Currently working on: **Taylor Street Tap Website V2** using **Svelte**
-- Currently working on: **Tropical717's Maze Game** using **Bevy** and **Rust**
+- Currently working on: **Tropical717's Doodle Jump** using **Bevy** and **Rust**
 
 ##### INFO
 
