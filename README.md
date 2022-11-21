@@ -6,7 +6,7 @@
 
 ##### NOW
 
-- Currently working on: **Tropical717's Doodle Jump** using **Bevy** and **Rust**
+- Currently working on: **Doodle Jump-inspired Game** using **Bevy** and **Rust**
 
 ##### INFO
 
