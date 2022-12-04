@@ -6,13 +6,13 @@
 
 ##### NOW
 
-- Currently working on: **Doodle Jump-inspired Game** using **Bevy** and **Rust**
+- Currently working on: **FLOORFIFTY Vertical Slice** using **Bevy** and **Rust**
 
 ##### INFO
 
-- 🏢 I'm currently working at **Amazon ORD10**.
+- 🏢 I'm currently seeking long-term software engineering work. 
 - 🛠 I use daily: `.svelte`, `.rs`
-- 🌍 I'm mostly active within **WallStreetBets** and **Godot Developers**.
+- 🌍 I'm mostly active within **WallStreetBets** and **Taylor Street**.
 - 💬 Feel free to reach out about **design**, **branding**, **game/web/app development**, **web3**, and **strategy**.
-- 📫 Contact me: [twitter.com/mcthaydt](https://twitter.com/mcthaydt)
+- 📫 Contact me: [twitter.com/crispyowl717](https://twitter.com/crispyowl717)
 - ♏️ Fun fact: I'm a huge fan of astrology.
