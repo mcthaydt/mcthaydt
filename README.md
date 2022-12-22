@@ -6,7 +6,7 @@
 
 ##### NOW
 
-- Currently working on: **FLOORFIFTY Minimum Viable Game** using **Bevy** and **Rust**
+- Currently working on: **Limerence Prototype** using **Bevy** and **Rust**
 
 ##### INFO
 
