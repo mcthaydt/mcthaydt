@@ -28,7 +28,7 @@ keymap.set("n", "<leader>tp", ":tabp<CR>") -- Previous Tab
 -- Vim-Maximizer
 keymap.set("n", "<leader>sm", ":MaximizerToggle<CR>")
 -- Nvim-Tree 
-keymap.set("n", "<leader>e", ":NvimTreeToggle<CR>")
+keymap.set("n", "<leader>t", ":NvimTreeToggle<CR>")
 -- Telescope
 keymap.set("n", "<leader>ff", "<cmd>Telescope find_files<cr>") -- find files within current working directory, respects .gitignore
 keymap.set("n", "<leader>fs", "<cmd>Telescope live_grep<cr>") -- find string in current working directory as you type

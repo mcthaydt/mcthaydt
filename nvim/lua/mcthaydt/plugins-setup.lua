@@ -71,39 +71,28 @@ return require("packer").startup(function(use)
 	use({ "nvim-telescope/telescope-fzf-native.nvim", run = "make" }) -- dependency for better sorting performance
 	use({ "nvim-telescope/telescope.nvim", branch = "0.1.x" }) -- fuzzy finder
 
-	-- Autocompletion
-	use("hrsh7th/nvim-cmp")
-	use("hrsh7th/cmp-buffer")
-	use("hrsh7th/cmp-path")
-	-- Snippet engine
-	use("hrsh7th/vim-vsnip")
-	-- Adds extra functionality over rust analyzer
-	use("simrat39/rust-tools.nvim")
-
-	-- Snippets
-	use("L3MON4D3/LuaSnip")
-	use("saadparwaiz1/cmp_luasnip")
-	use("rafamadriz/friendly-snippets")
-
-	-- LSP Servers
-	use("williamboman/mason.nvim")
-	use("williamboman/mason-lspconfig.nvim")
-	use("neovim/nvim-lspconfig")
-	use("hrsh7th/cmp-nvim-lsp")
-	use({ "glepnir/lspsaga.nvim", branch = "main" })
-	use("jose-elias-alvarez/typescript.nvim")
-	use("onsails/lspkind.nvim")
-
-	-- Formatting
-	use("jose-elias-alvarez/null-ls.nvim")
-	use("jayp0521/mason-null-ls.nvim")
+	
+  use ({"neoclide/coc.nvim", branch = "release"})
 
 	-- Treesitter
+  use {
+  'nvim-treesitter/nvim-treesitter',
+  commit = '9bfaf62e42bdcd042df1230e9188487e62a112c0',
+  }
+
+  --TypeScript
+  use 'pangloss/vim-javascript'
+  use 'leafgarland/typescript-vim'
+  use 'peitalin/vim-jsx-typescript'
+  use ({'styled-components/vim-styled-components', branch = "main" })
+  use 'jparise/vim-graphql'
+
+	-- Dashboard
 	use({
-		"nvim-treesitter/nvim-treesitter",
-		run = function()
-			local ts_update = require("nvim-treesitter.install").update({ with_sync = true })
-			ts_update()
+		"goolord/alpha-nvim",
+		requires = { "nvim-tree/nvim-web-devicons" },
+		config = function()
+			require("alpha").setup(require("alpha.themes.theta").config)
 		end,
 	})
 
@@ -118,3 +107,4 @@ return require("packer").startup(function(use)
 		require("packer").sync()
 	end
 end)
+
