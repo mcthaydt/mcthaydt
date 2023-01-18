@@ -14,4 +14,4 @@
 - 🛠 I use daily: `.jsx`, `.rs`
 - 🌍 I'm mostly active within **WallStreetBets** and **Taylor Street**.
 - 💬 Feel free to reach out about **design**, **branding**, **game/web/app development**, **web3**, and **strategy**.
-- 📫 Contact me: [twitter.com/crispyowl717](https://twitter.com/crispyowl717)
+- 📫 Contact me: mcthaydawson@gmail.com
