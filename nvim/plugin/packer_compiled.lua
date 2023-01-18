@@ -84,6 +84,11 @@ _G.packer_plugins = {
     path = "/Users/mcthaydt/.local/share/nvim/site/pack/packer/start/ReplaceWithRegister",
     url = "https://github.com/vim-scripts/ReplaceWithRegister"
   },
+  ale = {
+    loaded = true,
+    path = "/Users/mcthaydt/.local/share/nvim/site/pack/packer/start/ale",
+    url = "https://github.com/dense-analysis/ale"
+  },
   ["alpha-nvim"] = {
     config = { "\27LJ\2\n]\0\0\5\0\5\0\n6\0\0\0'\2\1\0B\0\2\0029\0\2\0006\2\0\0'\4\3\0B\2\2\0029\2\4\2B\0\2\1K\0\1\0\vconfig\23alpha.themes.theta\nsetup\nalpha\frequire\0" },
     loaded = true,
@@ -157,6 +162,16 @@ _G.packer_plugins = {
     path = "/Users/mcthaydt/.local/share/nvim/site/pack/packer/start/popup.nvim",
     url = "https://github.com/nvim-lua/popup.nvim"
   },
+  ["rust-analyzer"] = {
+    loaded = true,
+    path = "/Users/mcthaydt/.local/share/nvim/site/pack/packer/start/rust-analyzer",
+    url = "https://github.com/rust-lang/rust-analyzer"
+  },
+  ["rust.vim"] = {
+    loaded = true,
+    path = "/Users/mcthaydt/.local/share/nvim/site/pack/packer/start/rust.vim",
+    url = "https://github.com/rust-lang/rust.vim"
+  },
   ["telescope-fzf-native.nvim"] = {
     loaded = true,
     path = "/Users/mcthaydt/.local/share/nvim/site/pack/packer/start/telescope-fzf-native.nvim",
@@ -171,6 +186,11 @@ _G.packer_plugins = {
     loaded = true,
     path = "/Users/mcthaydt/.local/share/nvim/site/pack/packer/start/typescript-vim",
     url = "https://github.com/leafgarland/typescript-vim"
+  },
+  ["vim-anyfold"] = {
+    loaded = true,
+    path = "/Users/mcthaydt/.local/share/nvim/site/pack/packer/start/vim-anyfold",
+    url = "https://github.com/pseewald/vim-anyfold"
   },
   ["vim-graphql"] = {
     loaded = true,

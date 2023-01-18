@@ -80,6 +80,21 @@ return require("packer").startup(function(use)
   commit = '9bfaf62e42bdcd042df1230e9188487e62a112c0',
   }
 
+  -- Rust
+  use 'rust-lang/rust-analyzer'
+  use 'dense-analysis/ale'
+  use 'rust-lang/rust.vim'
+
+  vim.cmd([[
+    let g:rustfmt_autosave = 1
+    let g:rustfmt_emit_files = 1
+    let g:rustfmt_fail_silently = 0
+    set nobackup
+    set nowritebackup
+    set updatetime=300
+    set signcolumn=yes
+  ]])
+
   --TypeScript
   use 'pangloss/vim-javascript'
   use 'leafgarland/typescript-vim'
@@ -99,7 +114,8 @@ return require("packer").startup(function(use)
 	-- Auto Closing
 	use("windwp/nvim-autopairs")
 	use({ "windwp/nvim-ts-autotag", after = "nvim-treesitter" })
-
+  use 'pseewald/vim-anyfold'
+  
 	-- Markdown Viewer
 	use({ "ellisonleao/glow.nvim" })
 
