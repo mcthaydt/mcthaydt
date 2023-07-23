@@ -1,4 +1,4 @@
-### Hey ✌️
+### Howdy ✌️
 
 #### I'm a Software Developer and Product Designer based in Chicago.
 ##### Niche #1: Chicago Nightlife
@@ -6,12 +6,12 @@
 
 ##### NOW
 
-- Currently working on: **Website Collection** using **React**, **JavaScript**, and **TailwindCSS**
+- Currently working on: **Bevy Doodle Jump Tutorial ** using **Bevy Engine** and **Rust**
 
 ##### INFO
 
-- 🏢 I'm currently seeking long-term software engineering work. 
-- 🛠 I use daily: `.jsx`, `.rs`
-- 🌍 I'm mostly active within **WallStreetBets** and **Taylor Street**.
+- 🏢 I'm currently avilable for business consultation and freelance game development. 
+- 🛠 I use daily: `.svelte`, `.rs`
+- 🌍 I'm mostly active within **(e/acc)** and **Pilsen**.
 - 💬 Feel free to reach out about **design**, **branding**, **game/web/app development**, **web3**, and **strategy**.
 - 📫 Contact me: mcthaydawson@gmail.com
