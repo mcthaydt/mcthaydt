@@ -1,6 +1,6 @@
 ### Howdy ✌️
 
-#### I'm a Software Developer and Product Designer based in Chicago.
+#### I'm a Software Developer, Creative Director, and IT Service Desk Analyst based in Chicago.
 ##### Niche #1: Chicago Nightlife
 ##### Niche #2: Data-Driven ECS Games
 
