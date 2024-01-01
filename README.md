@@ -2,7 +2,7 @@
 
 #### I help people make more money. IT Analyst | Consultant | Video Game Publisher | Photographer & Videographer
 ##### Niche #1: Chicago Nightlife
-##### Niche #2: Data-Driven ECS Games
+##### Niche #2: Subversive Arthouse Games
 
 ##### NOW
 
