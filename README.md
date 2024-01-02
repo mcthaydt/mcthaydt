@@ -1,6 +1,6 @@
 ### Howdy ✌️
 
-#### I help people make more money. IT Analyst | Consultant | Video Game Publisher | Photographer & Videographer
+#### I help people make more money. IT Analyst @ HCSC | Founder @ 717 Holdings Company | Consultant | Video Game Publisher | Photographer & Videographer
 ##### Niche #1: Chicago Nightlife
 ##### Niche #2: Subversive Arthouse Games
 
