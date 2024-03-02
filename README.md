@@ -1,17 +1,18 @@
 ### Howdy ✌️
 
-#### I help people make more money. IT Analyst @ HCSC | Founder @ 717 Holdings Company | Consultant | Video Game Publisher | Photographer & Videographer
-##### Niche #1: Chicago Nightlife
-##### Niche #2: Subversive Arthouse Games
+#### I help people make more money. Founder @TropicalSOS | Consultant | Video Game Publisher | Photographer & Videographer
+##### Niche #1: Nintendo DS and PSP-Inspired Games
+##### Niche #2: Chicago Nightlife
+##### Niche #3: e/acc
 
 ##### NOW
 
-- Currently helping **Gianluca Marotta** publish a video game.
+- Currently helping **Gianluca Marotta** publish Abyss of The Self.
 
 ##### INFO
 
-- 🏢 I'm currently available for photography/videography, consultation, and freelance game development. 
+- 🏢 I'm currently available for photography/videography, consultation, and game studio incubation/game publishing. 
 - 🛠 I use daily: `.svelte`, `.rs`
-- 🌍 I'm mostly active within **West Loop** and **Pilsen**.
-- 💬 Feel free to reach out about **design**, **branding**, **game/web/app development**, **web3**, and **strategy**.
+- 🌍 I'm mostly active within **The Loop** and **Pilsen**.
+- 💬 Feel free to reach out for game design consulting. 
 - 📫 Contact me: mcthaydawson@gmail.com
