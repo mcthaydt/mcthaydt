@@ -1,6 +1,7 @@
 ### Howdy ✌️
 
-#### I help people make more money. Founder @TropicalSOS | Consultant | Video Game Publisher | Photographer & Videographer
+#### I help people make more money.
+
 ##### Niche #1: 2D Sprites 3D World Games
 ##### Niche #2: Chicago Nightlife
 ##### Niche #3: AI + Crypto
