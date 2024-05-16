@@ -12,8 +12,8 @@
 
 ##### INFO
 
-- 🏢 I'm currently available for photography/videography, consultation, and game studio incubation/game publishing. 
+- 🏢 Building TropicalSOS Accelerator and 717 Interactive  
 - 🛠 I use daily: `.svelte`, `.go`
 - 🌍 I'm mostly active within **The Loop** and **River North**.
-- 💬 Feel free to reach out for game design consulting. 
+- 💬 Feel free to reach out for game design freelancing. 
 - 📫 Contact me: mcthaydawson@gmail.com
