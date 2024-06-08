@@ -13,7 +13,7 @@
 ##### INFO
 
 - 🏢 Building TropicalSOS Accelerator and 717 Interactive  
-- 🛠 I use daily: `.svelte`, `.go`
+- 🛠 I use daily: `.svelte`, `.astro`, '.gml'
 - 🌍 I'm mostly active within **The Loop** and **River North**.
 - 💬 Feel free to reach out for game design freelancing. 
 - 📫 Contact me: mcthaydawson@gmail.com
