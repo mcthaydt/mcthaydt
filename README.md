@@ -8,12 +8,12 @@
 
 ##### NOW
 
-- Currently switching to sales
+- Currently learning Game Maker Studio 2
 
 ##### INFO
 
-- 🏢 Building TropicalSOS Accelerator and 717 Interactive  
-- 🛠 I use daily: `.svelte`, `.astro`
-- 🌍 I'm mostly active within **The Loop** and **River North**.
-- 💬 Feel free to reach out for game design freelancing. 
+- 🏢 Building TropicalSOS Accelerator, 717 Interactive, and SDRL  
+- 🛠 I use daily: `.svelte`
+- 🌍 I'm mostly active within **Old Town** and **River North**.
+- 💬 Feel free to reach out for game design consulting. 
 - 📫 Contact me: mcthaydawson@gmail.com
