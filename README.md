@@ -2,13 +2,15 @@
 
 #### I help people make more money.
 
-##### Niche #1: 2D Sprites 3D World Games
+##### Niche #1: Systemic and Emergent Games
 ##### Niche #2: Chicago Nightlife
-##### Niche #3: AI + Crypto
+##### Niche #3: AI
+##### Niche #4: Astrology
+
 
 ##### NOW
 
-- Currently learning Game Maker Studio 2
+- Currently building TropicalSOS, 717 Interactive, and SDRL to scale.
 
 ##### INFO
 
@@ -16,4 +18,4 @@
 - 🛠 I use daily: `.svelte`
 - 🌍 I'm mostly active within **Old Town** and **River North**.
 - 💬 Feel free to reach out for game design consulting. 
-- 📫 Contact me: mcthaydawson@gmail.com
+- 📫 Contact me: mcthaydt.netlify.app
