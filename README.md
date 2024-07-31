@@ -15,7 +15,7 @@
 ##### INFO
 
 - 🏢 Building TropicalSOS Accelerator, 717 Interactive, and SDRL  
-- 🛠 I use daily: `.svelte`
+- 🛠 I use daily: `.svelte`, `.gdscript`
 - 🌍 I'm mostly active within **Old Town** and **River North**.
 - 💬 Feel free to reach out for game design consulting. 
 - 📫 Contact me: mcthaydt.netlify.app
