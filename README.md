@@ -3,19 +3,19 @@
 #### I help people make more money.
 
 ##### Niche #1: Systemic and Emergent Games
-##### Niche #2: Chicago Nightlife
+##### Niche #2: SaaS
 ##### Niche #3: AI
 ##### Niche #4: Astrology
 
 
 ##### NOW
 
-- Currently building TropicalSOS, 717 Interactive, and SDRL to scale.
+- Currently building OSAS.
 
 ##### INFO
 
-- 🏢 Building TropicalSOS Accelerator, 717 Interactive, and SDRL  
-- 🛠 I use daily: `.svelte`, `.gdscript`
-- 🌍 I'm mostly active within **Old Town** and **River North**.
-- 💬 Feel free to reach out for game design consulting. 
-- 📫 Contact me: mcthaydt.netlify.app
+- 🏢 Building 717 Holdings Company and 717 Interactive  
+- 🛠 I use daily: `.svelte`, `.gdscript`, `.ts`
+- 🌍 I'm mostly active within **Little Italy** and **Pilsen**.
+- 💬 Feel free to reach out for anything related to the above niches. 
+- 📫 Contact me: mcthaydawson@gmail.com
