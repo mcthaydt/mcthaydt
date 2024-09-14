@@ -18,4 +18,4 @@
 - 🛠 I use daily: `.svelte`, `.gdscript`, `.ts`
 - 🌍 I'm mostly active within **Little Italy** and **Pilsen**.
 - 💬 Feel free to reach out for anything related to the above niches. 
-- 📫 Contact me: mcthaydawson@gmail.com
+- 📫 Contact me: mcthaydt@gmail.com
