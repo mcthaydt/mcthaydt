@@ -14,7 +14,7 @@
 
 ##### INFO
 
-- 🏢 Building 717 Holdings Company and SOS Interactive  
+- 🏢 Building SOS Holdings Company and SOS Interactive  
 - 🛠 I use daily: `.svelte`, `.gdscript`, `.ts`
 - 🌍 I'm mostly active within **Little Italy** and **Pilsen**.
 - 💬 Feel free to reach out for anything related to the above niches. 
