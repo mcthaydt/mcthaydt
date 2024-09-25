@@ -10,12 +10,12 @@
 
 ##### NOW
 
-- Currently building OSAS.
+- Currently: Trying to get another IT job.
 
 ##### INFO
 
 - 🏢 Building SOS Holdings Company and SOS Interactive  
-- 🛠 I use daily: `.svelte`, `.gdscript`, `.ts`
+- 🛠 I use daily: `.svelte`, `.csharp`, `.tsx`
 - 🌍 I'm mostly active within **Little Italy** and **Pilsen**.
 - 💬 Feel free to reach out for anything related to the above niches. 
 - 📫 Contact me: mcthaydt@gmail.com
