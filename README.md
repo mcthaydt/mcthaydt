@@ -10,12 +10,12 @@
 
 ##### NOW
 
-- Currently: Trying to get another IT job.
+- Currently: Studying for Network+ and Practicing Bevy
 
 ##### INFO
 
 - 🏢 Building SOS Holdings Company and SOS Interactive  
 - 🛠 I use daily: `.svelte`, `.csharp`, `.tsx`
-- 🌍 I'm mostly active within **Little Italy** and **Pilsen**.
+- 🌍 I'm mostly active within **University Village** and **West Loop**.
 - 💬 Feel free to reach out for anything related to the above niches. 
 - 📫 Contact me: mcthaydt@gmail.com
