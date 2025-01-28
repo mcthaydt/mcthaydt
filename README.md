@@ -2,15 +2,15 @@
 
 #### I help people make more money, usually in IT.
 
-##### Niche #1: Systemic and Emergent Games
-##### Niche #2: GaaS
+##### Niche #1: Alternative approaches to Game Development inspired by Web Development
+##### Niche #2: GaaS & SaaS
 ##### Niche #3: AI
 ##### Niche #4: Astrology
 
 
 ##### NOW
 
-- Currently: Studying for Network+
+- Currently: Learning Cloud Engineering
 
 ##### INFO
 
