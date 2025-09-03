@@ -1,21 +1,21 @@
 ### Howdy ✌️
 
-#### I help people make more money, usually in IT.
+#### I help people make more money.
 
-##### Niche #1: Alternative approaches to Game Development inspired by Web Development
-##### Niche #2: GaaS & SaaS
-##### Niche #3: AI
-##### Niche #4: Astrology
+##### Interest #1: Alternative approaches to Game Development inspired by Web Development
+##### Interest #2: AI
+##### Interest #3: Astrology
+##### Interest #4: Low-Poly Hand-Painted 3D Models
 
 
 ##### NOW
 
-- Currently: Learning Cloud Engineering
+- Currently: Creating Solutions Engineer Portfolio
 
 ##### INFO
 
-- 🏢 Building TropicalSOS Foundation and SOS Interactive  
-- 🛠 I use daily: `.py`, `.svelte`
-- 🌍 I'm mostly active within **Tri-Taylor** and **Printer's Row**.
-- 💬 Feel free to reach out for anything related to the above niches. 
-- 📫 Contact me: mcthaydt@gmail.com
+- 🏢 Building: Crispy Cabaret  
+- 🛠 I use daily: `.tsx`, `.sql`
+- 🌍 I'm mostly active within **West Loop**
+- 💬 Feel free to reach out for anything related to the above interests. 
+- 📫 Contact me: mcthaydawson@gmail.com
