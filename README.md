@@ -10,12 +10,12 @@
 
 ##### NOW
 
-- Currently: Creating Solutions Engineer Portfolio
+- Currently: ...
 
 ##### INFO
 
-- 🏢 Building: Crispy Cabaret  
+- 🏢 Building: ...  
 - 🛠 I use daily: `.tsx`, `.sql`
-- 🌍 I'm mostly active within **West Loop**
+- 🌍 I'm mostly active within **my house**
 - 💬 Feel free to reach out for anything related to the above interests. 
 - 📫 Contact me: mcthaydawson@gmail.com
