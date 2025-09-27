@@ -10,11 +10,11 @@
 
 ##### NOW
 
-- Currently: Applying for Jobs
+- Currently: ...
 
 ##### INFO
 
-- 🏢 Building: Portfolio
+- 🏢 Building: ...
 - 🛠 I use daily: `.gdscript`
 - 🌍 I'm mostly active within **my house**
 - 💬 Feel free to reach out for anything related to the above interests. 
