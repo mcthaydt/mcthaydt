@@ -4,9 +4,9 @@
 
 ##### INFO
 
-- 🏢 Building: a college diploma
-- 🛠 I use daily: `.gdscript`
+- 🏢 Building: Crispy Cabaret and a degree in accounting
+- 🛠 I use daily: `.gdscript`, `.tsx`
 - 🌍 I'm mostly active within: **my house**
-- ☕️ Interests: Crypto, AI, Astrology, Game Development
+- ☕️ Interests: AI, Astrology, Game Development
 - 💬 Feel free to reach out for anything related to the above interests. 
 - 📫 Contact me: mcthaydawson@gmail.com
