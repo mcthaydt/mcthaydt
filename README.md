@@ -4,7 +4,7 @@
 
 ##### INFO
 
-- 🏢 Building: Crispy Cabaret and a degree in accounting
+- 🏢 Building: [stealth] and a degree in accounting
 - 🛠 I use daily: `.gdscript`, `.tsx`
 - 🌍 I'm mostly active within: **my house**
 - ☕️ Interests: AI, Astrology, Game Development
