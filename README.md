@@ -4,9 +4,9 @@
 
 ##### INFO
 
-- 🏢 Building: [stealth] and a degree in accounting
-- 🛠 I use daily: `.gdscript`, `.tsx`
+- 🏢 Building: [stealth], a career, and a degree in accounting
+- 🛠 I use daily:`.tsx`
 - 🌍 I'm mostly active within: **my house**
 - ☕️ Interests: AI, Astrology, Game Development
 - 💬 Feel free to reach out for anything related to the above interests. 
-- 📫 Contact me: mcthaydawson@gmail.com
+- 📫 Contact me: mcthaydt@gmail.com
