@@ -4,7 +4,7 @@
 
 ##### INFO
 
-- 🏢 Building: a web game engine, a career, and a degree in accounting
+- 🏢 Building: a 2.5D game engine for web, a career, and a degree in accounting
 - 🛠 I use daily: `.tsx`, `.rs`
 - 🌍 I'm mostly active within: **gold coast** and **west town**
 - ☕️ Interests: AI, Astrology, Game Development
