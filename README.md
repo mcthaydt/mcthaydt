@@ -9,4 +9,4 @@
 - 🌍 I'm mostly active within: **home**
 - ☕️ Interests: AI, Astrology, Game Development
 - 💬 Feel free to reach out for anything related to the above interests. 
-- 📫 Contact me: mcthaydt@gmail.com
+- 📫 Contact me: dawson@mcthaydt.com
